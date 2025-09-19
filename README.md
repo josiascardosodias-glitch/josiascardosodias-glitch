@@ -1,5 +1,10 @@
 # **josias_cardoso** 💻🚀🌐
 ---
+### **Apresentação rapida**
+- Olá, eu me chamo Josias e moro no Brasil 🌎
+- Sou apaixonado por programação e desenvolvimento web ❤
+- Atualmente estou estudando html, css e js 💻
+---
 ### **Sobre mim** 
 - Gosto de entender como as coisas funcionam 🤔
 - Gosto de praticar esportes e exercício fisico 🏐
