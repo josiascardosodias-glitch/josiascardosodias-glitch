@@ -15,4 +15,3 @@
 - Criar projetos que sejam uteis para as pessoas 🌎
 - Me tornar fullstack sênior 🤝
 - Ter a oportunidade de estudar fora ✈️
----
