@@ -1,8 +1,13 @@
 # **josias_cardoso**
 ---
-### Sobre mim 
-
-- Gosto de Animes, Sou muito fã de alguns universos da nintendo, Gosto de vôlei e principalmente, amo estudar sobre programação.
-
-- Meu objetivo de vida é me tornar fullstack sênior.
+### **Sobre mim** 
+- Gosto de entender como as coisas funcionam 🤔
+- Gosto de praticar esportes e exercício fisico 🏐
+- Amo estudar sobre programação 💻
+- Amo criar projetos grandes do zero 🚀
+---
+### **Meus objetivos** 
+- Criar projetos que sejam uteis para as pessoas 🌎
+- Me tornar fullstack sênior 🤝
+- Ter a oportunidade de estudar fora ✈️
 ---
