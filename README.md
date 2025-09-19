@@ -1,4 +1,4 @@
-# **josias_cardoso**
+# **josias_cardoso** 💻🚀🌐
 ---
 ### **Sobre mim** 
 - Gosto de entender como as coisas funcionam 🤔
