@@ -16,6 +16,8 @@
 - Me tornar fullstack sênior 🤝
 - Ter a oportunidade de estudar fora ✈️
 ### **Meus Projétos**
-- Meu primeiro site:
+- Meus sites:
 
 https://josiascardosodias-glitch.github.io/Minha-pagina-web/
+
+https://josiascardosodias-glitch.github.io/linktree/
