@@ -12,8 +12,11 @@
   <a href="mailto:josiascardosodias@gmail.com">
     <img src="https://img.shields.io/badge/Email-30A3DC?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/josias-dias-cardoso/" target="_self">
+  <a href="https://www.linkedin.com/in/josias-dias-cardoso/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-30A3DC?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/josias.d_cardoso/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-30A3DC?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -21,21 +24,19 @@
 
 ## 🚀 Sobre mim
 
-* 🇧🇷 Moro no Brasil
 * 💻 Apaixonado por programação e desenvolvimento web
-* 📚 Atualmente estudando **HTML, CSS e JavaScript**
+* 📚 Atualmente estudando **React, Node.js e Java**
 * 🧠 Gosto de entender como as coisas funcionam
-* 🏐 Gosto de esportes e exercícios físicos
 * 🚀 Gosto de criar projetos do zero e transformar ideias em código
 
-Atualmente sigo focado em evoluir como desenvolvedor, estudando desenvolvimento web e construindo projetos práticos para fortalecer minha base e expandir minhas habilidades todos os dias.
+Atualmente sigo focado em evoluir como desenvolvedor, me aperfeiçoando em desenvolvimento web, aprofundando meus conhecimentos em Back-End com Java e construindo projetos práticos para fortalecer minha base e expandir minhas habilidades todos os dias.
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma" />
 </p>
 
 ---
@@ -43,29 +44,27 @@ Atualmente sigo focado em evoluir como desenvolvedor, estudando desenvolvimento 
 ## 📚 Atualmente estudando
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,react" />
 </p>
-
-* Estrutura e semântica com **HTML**
-* Estilização moderna com **CSS**
-* Lógica e interatividade com **JavaScript**
-* Versionamento com **Git e GitHub**
-* Primeiros passos com **React**
-* Evoluindo para **Node.js**
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img height="180em" src="https://streak-stats.demolab.com?user=JOSIASCARDOSODIAS-GLITCH&theme=transparent&background=00000000&border=30A3DC&stroke=30A3DC&ring=30A3DC&fire=30A3DC&currStreakLabel=30A3DC" />
-  </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JOSIASCARDOSODIAS-GLITCH&show_icons=true&theme=transparent&bg_color=00000000&border_color=30A3DC&icon_color=30A3DC&title_color=30A3DC&text_color=DDD" />
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=JOSIASCARDOSODIAS-GLITCH&show_icons=true&theme=transparent&bg_color=00000000&border_color=30A3DC&icon_color=30A3DC&title_color=30A3DC&text_color=DDDDDD"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOSIASCARDOSODIAS-GLITCH&layout=compact&theme=transparent&bg_color=00000000&border_color=30A3DC&title_color=30A3DC&text_color=DDD" />
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JOSIASCARDOSODIAS-GLITCH&layout=compact&langs_count=8&theme=transparent&bg_color=00000000&border_color=30A3DC&title_color=30A3DC&text_color=DDDDDD"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -73,7 +72,7 @@ Atualmente sigo focado em evoluir como desenvolvedor, estudando desenvolvimento 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JOSIASCARDOSODIAS-GLITCH&theme=algolia&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JOSIASCARDOSODIAS-GLITCH&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -98,6 +97,7 @@ JavaScript Logic        ████████░░ 80%
 Git & GitHub            ████████░░ 80%
 React                   ████░░░░░░ 40%
 Back-end (Node.js)      ███░░░░░░░ 30%
+Back-end (Java)         ███░░░░░░░ 30%
 Full Stack              ██░░░░░░░░ 20%
 ```
 
@@ -128,6 +128,9 @@ Meu foco está em dominar bem os fundamentos, criar projetos cada vez mais sóli
   </a>
   <a href="https://www.linkedin.com/in/josias-dias-cardoso/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-30A3DC?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/josias.d_cardoso/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-30A3DC?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
