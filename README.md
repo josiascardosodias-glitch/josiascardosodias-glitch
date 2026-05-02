@@ -89,20 +89,6 @@ Atualmente sigo focado em evoluir como desenvolvedor, me aperfeiçoando em desen
 
 ---
 
-## 📈 Roadmap
-
-```text
-Front-end Foundations   ██████████ 100%
-JavaScript Logic        ████████░░ 80%
-Git & GitHub            ████████░░ 80%
-React                   ████░░░░░░ 40%
-Back-end (Node.js)      ███░░░░░░░ 30%
-Back-end (Java)         ███░░░░░░░ 30%
-Full Stack              ██░░░░░░░░ 20%
-```
-
----
-
 ## 📈 Minha jornada
 
 Atualmente estou construindo minha base como desenvolvedor front-end, estudando os fundamentos da web e desenvolvendo projetos para transformar conhecimento em prática.
