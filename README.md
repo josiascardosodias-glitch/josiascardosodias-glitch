@@ -1,7 +1,7 @@
-# Olá, eu sou Josias Cardoso 👋💻
+# Olá, me chamo Josias 👋💻
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=30A3DC&size=24&center=true&vCenter=true&width=800&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Apaixonado+por+programa%C3%A7%C3%A3o+e+tecnologia;Construindo+projetos+e+evoluindo+todos+os+dias;Futuro+Desenvolvedor+Full+Stack+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=30A3DC&size=24&center=true&vCenter=true&width=800&lines=Apaixonado+por+programa%C3%A7%C3%A3o+e+tecnologia;Construindo+projetos+e+evoluindo+todos+os+dias;Futuro+Desenvolvedor+Java+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 ## 🚀 Sobre mim
 
 * 💻 Apaixonado por programação e desenvolvimento web
-* 📚 Atualmente estudando **React, Node.js e Java**
+* 📚 Atualmente estudando **React e Java**
 * 🧠 Gosto de entender como as coisas funcionam
 * 🚀 Gosto de criar projetos do zero e transformar ideias em código
 
@@ -44,7 +44,7 @@ Atualmente sigo focado em evoluir como desenvolvedor, me aperfeiçoando em desen
 ## 📚 Atualmente estudando
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,react" />
+  <img src="https://skillicons.dev/icons?i=java,react" />
 </p>
 
 ---
@@ -91,16 +91,16 @@ Atualmente sigo focado em evoluir como desenvolvedor, me aperfeiçoando em desen
 
 ## 📈 Minha jornada
 
-Atualmente estou construindo minha base como desenvolvedor front-end, estudando os fundamentos da web e desenvolvendo projetos para transformar conhecimento em prática.
+Atualmente estou construindo uma stack solida com Java, estudando os fundamentos da linguagem e desenvolvendo projetos para transformar conhecimento em prática.
 
-Meu foco está em dominar bem os fundamentos, criar projetos cada vez mais sólidos e evoluir de forma consistente rumo ao desenvolvimento full stack.
+Meu foco está em dominar bem as ferramentas e tecnologias ligadas a linguagem Java, criar projetos cada vez mais sólidos e evoluir de forma constante rumo ao desenvolvimento Back-End com Java.
 
 ---
 
 ## 🎯 Objetivos
 
-* Criar projetos úteis para as pessoas 🌎
-* Me tornar um desenvolvedor **Full Stack Sênior**
+* Criar projetos que façam a diferença para as pessoas 🌎
+* Me tornar um desenvolvedor **Sênior**
 * Trabalhar com tecnologia profissionalmente
 * Estudar e trabalhar com desenvolvimento no exterior ✈️
 
