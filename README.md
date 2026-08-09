@@ -49,26 +49,6 @@ Atualmente sigo focado em evoluir como desenvolvedor, me aperfeiçoando em desen
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=JOSIASCARDOSODIAS-GLITCH&show_icons=true&theme=transparent&bg_color=00000000&border_color=30A3DC&icon_color=30A3DC&title_color=30A3DC&text_color=DDDDDD"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JOSIASCARDOSODIAS-GLITCH&layout=compact&langs_count=8&theme=transparent&bg_color=00000000&border_color=30A3DC&title_color=30A3DC&text_color=DDDDDD"
-    alt="Top Languages"
-  />
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
