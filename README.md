@@ -49,14 +49,6 @@ Atualmente sigo focado em evoluir como desenvolvedor, me aperfeiçoando em desen
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JOSIASCARDOSODIAS-GLITCH&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 🌐 Projetos em destaque
 
 ### 🔹 Meu Portfólio
