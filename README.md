@@ -1,4 +1,6 @@
-# Olá, me chamo Josias 👋💻
+<div align="center">
+
+ # Olá, me chamo Josias 👋💻
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=30A3DC&size=24&center=true&vCenter=true&width=800&lines=Apaixonado+por+programa%C3%A7%C3%A3o+e+tecnologia;Construindo+projetos+e+evoluindo+todos+os+dias;Futuro+Desenvolvedor+Java+%F0%9F%9A%80" />
@@ -20,33 +22,47 @@
   </a>
 </p>
 
----
-
-## 🚀 Sobre mim
-
-* 💻 Apaixonado por programação e desenvolvimento web
-* 📚 Atualmente estudando **React e Java**
-* 🧠 Gosto de entender como as coisas funcionam
-* 🚀 Gosto de criar projetos do zero e transformar ideias em código
-
-Atualmente sigo focado em evoluir como desenvolvedor, me aperfeiçoando em desenvolvimento web, aprofundando meus conhecimentos em Back-End com Java e construindo projetos práticos para fortalecer minha base e expandir minhas habilidades todos os dias.
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## Sobre mim
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma" />
+Sou estudante de Sistemas de Informação e desenvolvedor em constante evolução, com interesse em desenvolvimento web, APIs e construção de aplicações.
+
+Atualmente, foco meus estudos e minha prática em JavaScript, TypeScript, React, Node.js e desenvolvimento backend, buscando fortalecer minha base técnica e escrever código organizado, legível e sustentável.
+
+## Stack técnica
+
+### Linguagens e fundamentos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,c" alt="HTML, CSS, JavaScript, TypeScript, Java, Python e C"/>
 </p>
 
----
+### Frontend
 
-## 📚 Atualmente estudando
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,react" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind" alt="React, Vite, Bootstrap e Tailwind CSS"/>
 </p>
 
+### Backend e APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" alt="Node.js, Express e Spring"/>
+</p>
+
+### Banco de dados e ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,docker,git,github,githubactions,linux,npm" alt="MySQL, Docker, Git, GitHub, GitHub Actions, Linux e npm"/>
+</p>
+
+### IDEs e design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,figma" alt="VS Code, IntelliJ IDEA, PyCharm e Figma"/>
+</p>
 ---
 
 ## 🌐 Projetos em destaque
@@ -58,16 +74,8 @@ Atualmente sigo focado em evoluir como desenvolvedor, me aperfeiçoando em desen
 ### 🔹 Em breve
 
 📌 Novos projetos sendo desenvolvidos...
-
 ---
 
-## 📈 Minha jornada
-
-Atualmente estou construindo uma stack solida com Java, estudando os fundamentos da linguagem e desenvolvendo projetos para transformar conhecimento em prática.
-
-Meu foco está em dominar bem as ferramentas e tecnologias ligadas a linguagem Java, criar projetos cada vez mais sólidos e evoluir de forma constante rumo ao desenvolvimento Back-End com Java.
-
----
 
 ## 🎯 Objetivos
 
