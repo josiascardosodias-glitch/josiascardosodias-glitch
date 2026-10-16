@@ -33,45 +33,58 @@ Atualmente, foco meus estudos e minha prática em **JavaScript, TypeScript, Reac
 
 <div align="center">
 
-**Linguagens**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" width="32" height="32" alt="HTML" title="HTML" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" width="32" height="32" alt="CSS" title="CSS" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" width="32" height="32" alt="JavaScript" title="JavaScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript" title="TypeScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" width="32" height="32" alt="Java" title="Java" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="32" height="32" alt="Python" title="Python" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/c/c-original.svg" width="32" height="32" alt="C" title="C" />
-
-**Frontend**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" width="32" height="32" alt="React" title="React" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/vitejs/vitejs-original.svg" width="32" height="32" alt="Vite" title="Vite" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/bootstrap/bootstrap-original.svg" width="32" height="32" alt="Bootstrap" title="Bootstrap" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/tailwindcss/tailwindcss-original.svg" width="32" height="32" alt="Tailwind CSS" title="Tailwind CSS" />
-
-**Backend e APIs**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nodejs/nodejs-original.svg" width="32" height="32" alt="Node.js" title="Node.js" />
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/express/express-original.svg" width="32" height="32" alt="Express" title="Express" /></picture>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/spring/spring-original.svg" width="32" height="32" alt="Spring" title="Spring" />
-
-**Banco e ferramentas**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" width="32" height="32" alt="MySQL" title="MySQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" width="32" height="32" alt="Docker" title="Docker" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" width="32" height="32" alt="Git" title="Git" />
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/github/github-original.svg" width="32" height="32" alt="GitHub" title="GitHub" /></picture>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/githubactions/githubactions-original.svg" width="32" height="32" alt="GitHub Actions" title="GitHub Actions" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/linux/linux-original.svg" width="32" height="32" alt="Linux" title="Linux" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/npm/npm-original-wordmark.svg" width="32" height="32" alt="npm" title="npm" />
-
-**IDEs e design**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/vscode/vscode-original.svg" width="32" height="32" alt="VS Code" title="VS Code" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/intellij/intellij-original.svg" width="32" height="32" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/pycharm/pycharm-original.svg" width="32" height="32" alt="PyCharm" title="PyCharm" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/figma/figma-original.svg" width="32" height="32" alt="Figma" title="Figma" />
+<table>
+  <tr>
+    <td><b>Linguagens</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" width="32" height="32" alt="HTML" title="HTML" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" width="32" height="32" alt="CSS" title="CSS" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" width="32" height="32" alt="JavaScript" title="JavaScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript" title="TypeScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" width="32" height="32" alt="Java" title="Java" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="32" height="32" alt="Python" title="Python" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/c/c-original.svg" width="32" height="32" alt="C" title="C" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" width="32" height="32" alt="React" title="React" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/vitejs/vitejs-original.svg" width="32" height="32" alt="Vite" title="Vite" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/bootstrap/bootstrap-original.svg" width="32" height="32" alt="Bootstrap" title="Bootstrap" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/tailwindcss/tailwindcss-original.svg" width="32" height="32" alt="Tailwind CSS" title="Tailwind CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend e APIs</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nodejs/nodejs-original.svg" width="32" height="32" alt="Node.js" title="Node.js" />
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/express/express-original.svg" width="32" height="32" alt="Express" title="Express" /></picture>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/spring/spring-original.svg" width="32" height="32" alt="Spring" title="Spring" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Banco e ferramentas</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" width="32" height="32" alt="MySQL" title="MySQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" width="32" height="32" alt="Docker" title="Docker" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" width="32" height="32" alt="Git" title="Git" />
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/github/github-original.svg" width="32" height="32" alt="GitHub" title="GitHub" /></picture>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/githubactions/githubactions-original.svg" width="32" height="32" alt="GitHub Actions" title="GitHub Actions" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/linux/linux-original.svg" width="32" height="32" alt="Linux" title="Linux" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/npm/npm-original-wordmark.svg" width="32" height="32" alt="npm" title="npm" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>IDEs e design</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/vscode/vscode-original.svg" width="32" height="32" alt="VS Code" title="VS Code" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/intellij/intellij-original.svg" width="32" height="32" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/pycharm/pycharm-original.svg" width="32" height="32" alt="PyCharm" title="PyCharm" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/figma/figma-original.svg" width="32" height="32" alt="Figma" title="Figma" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
