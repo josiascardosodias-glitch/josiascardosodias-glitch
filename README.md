@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=30A3DC&center=true&vCenter=true&width=520&lines=Apaixonado+por+programa%C3%A7%C3%A3o+e+tecnologia;Construindo+projetos+e+evoluindo+todos+os+dias;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o+%F0%9F%9A%80" alt="Texto animado" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500o&size=20&duration=3500&pause=800&color=30A3DC&center=true&vCenter=true&width=550&lines=Apaixonado+por+programa%C3%A7%C3%A3o+e+tecnologia;Construindo+projetos+e+evoluindo+todos+os+dias;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o+%F0%9F%9A%80" alt="Texto animado" />
 
 <a href="mailto:josiascardosodias@gmail.com"><img src="https://img.shields.io/badge/Email-30A3DC?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/josias-dias-cardoso/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-30A3DC?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
