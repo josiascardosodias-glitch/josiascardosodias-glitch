@@ -55,6 +55,18 @@ Atualmente, foco meus estudos e minha prática em **JavaScript, TypeScript, Reac
 
 ---
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josiascardosodias-glitch/josiascardosodias-glitch/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josiascardosodias-glitch/josiascardosodias-glitch/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/josiascardosodias-glitch/josiascardosodias-glitch/output/github-snake.svg" alt="Cobrinha comendo o gráfico de contribuições" />
+</picture>
+
+</div>
+
+---
+
 ## 🎯 Objetivos
 
 * Criar projetos que façam a diferença para as pessoas 🌎
