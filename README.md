@@ -9,7 +9,7 @@
 <a href="https://www.instagram.com/josias.d_cardoso/" target="_blank"><img src="https://img.shields.io/badge/Instagram-30A3DC?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
 
----
+<br>
 
 <h2 align="center">👨‍💻 Prazer, eu sou o Josias</h2>
 
@@ -25,7 +25,7 @@ Atualmente, foco meus estudos e minha prática em **JavaScript, TypeScript, Reac
 
 <br clear="right" />
 
----
+<br>
 
 <h2 align="center">🧰 Minha caixa de ferramentas</h2>
 
@@ -86,7 +86,7 @@ Atualmente, foco meus estudos e minha prática em **JavaScript, TypeScript, Reac
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -98,7 +98,7 @@ Atualmente, foco meus estudos e minha prática em **JavaScript, TypeScript, Reac
 
 </div>
 
----
+<br>
 
 ## 🚀 Onde eu quero chegar
 
