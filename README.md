@@ -13,7 +13,7 @@
 
 ---
 
-## 👨‍💻 Prazer, eu sou o Josias
+<h2 align="center">👨‍💻 Prazer, eu sou o Josias</h2>
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programando" />
 
@@ -29,7 +29,7 @@ Atualmente, foco meus estudos e minha prática em **JavaScript, TypeScript, Reac
 
 ---
 
-## 🧰 Minha caixa de ferramentas
+<h2 align="center">🧰 Minha caixa de ferramentas</h2>
 
 <div align="center">
 
