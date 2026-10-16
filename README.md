@@ -23,7 +23,8 @@ Atualmente, foco meus estudos e minha prática em **JavaScript, TypeScript, Reac
 
 - 🔭 Estudando: TypeScript, React e Node.js
 - 📚 Guardo tudo o que aprendo na [biblioteca-dev](https://github.com/josiascardosodias-glitch/biblioteca-dev)
-- 🌐 Portfólio: [portifolio-gmaz.vercel.app](https://portifolio-gmaz.vercel.app/)
+
+<a href="https://portifolio-gmaz.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Ver%20meu%20portf%C3%B3lio-30A3DC?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver meu portfólio" /></a>
 
 <br clear="right" />
 
@@ -45,23 +46,10 @@ Atualmente, foco meus estudos e minha prática em **JavaScript, TypeScript, Reac
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=josiascardosodias-glitch&show_icons=true&hide_border=true&bg_color=00000000&title_color=30A3DC&icon_color=30A3DC&text_color=808080&ring_color=30A3DC&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josiascardosodias-glitch&layout=compact&hide_border=true&bg_color=00000000&title_color=30A3DC&text_color=808080&locale=pt-br" alt="Linguagens mais usadas" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=josiascardosodias-glitch&show_icons=true&hide_border=true&border_radius=12&bg_color=30,0D1B2A,1E6FA8&title_color=5BD1FF&icon_color=5BD1FF&text_color=FFFFFF&ring_color=5BD1FF&locale=pt-br" alt="Estatísticas do GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josiascardosodias-glitch&layout=compact&hide_border=true&border_radius=12&bg_color=30,0D1B2A,1E6FA8&title_color=5BD1FF&text_color=FFFFFF&locale=pt-br" alt="Linguagens mais usadas" />
 
-<img src="https://streak-stats.demolab.com?user=josiascardosodias-glitch&hide_border=true&background=00000000&ring=30A3DC&fire=30A3DC&currStreakLabel=30A3DC&currStreakNum=808080&sideNums=808080&sideLabels=808080&dates=808080&stroke=30A3DC&locale=pt_BR" alt="Sequência de contribuições" />
-
-</div>
-
----
-
-## 🌐 Projetos em destaque
-
-<div align="center">
-
-<a href="https://github.com/josiascardosodias-glitch/biblioteca-dev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=josiascardosodias-glitch&repo=biblioteca-dev&hide_border=true&bg_color=00000000&title_color=30A3DC&icon_color=30A3DC&text_color=808080" alt="biblioteca-dev" /></a>
-<a href="https://github.com/josiascardosodias-glitch/tetris-em-C"><img src="https://github-readme-stats.vercel.app/api/pin/?username=josiascardosodias-glitch&repo=tetris-em-C&hide_border=true&bg_color=00000000&title_color=30A3DC&icon_color=30A3DC&text_color=808080" alt="tetris-em-C" /></a>
-
-<a href="https://portifolio-gmaz.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Ver%20meu%20portf%C3%B3lio-30A3DC?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver meu portfólio" /></a>
+<img src="https://streak-stats.demolab.com?user=josiascardosodias-glitch&hide_border=true&border_radius=12&background=30,0D1B2A,1E6FA8&ring=5BD1FF&fire=FF9F43&currStreakLabel=5BD1FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=5BD1FF&dates=B0C4DE&stroke=5BD1FF&locale=pt_BR" alt="Sequência de contribuições" />
 
 </div>
 
