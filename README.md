@@ -7,8 +7,6 @@
 <a href="mailto:josiascardosodias@gmail.com"><img src="https://img.shields.io/badge/Email-30A3DC?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/josias-dias-cardoso/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-30A3DC?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.instagram.com/josias.d_cardoso/" target="_blank"><img src="https://img.shields.io/badge/Instagram-30A3DC?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<img src="https://komarev.com/ghpvc/?username=JOSIASCARDOSODIAS-GLITCH&color=30A3DC&style=flat&label=visitas" alt="Visualizações do perfil" />
-
 </div>
 
 ---
