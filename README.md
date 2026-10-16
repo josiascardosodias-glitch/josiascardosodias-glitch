@@ -53,7 +53,7 @@ Atualmente, foco meus estudos e minha prática em **JavaScript, TypeScript, Reac
 **Backend e APIs**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nodejs/nodejs-original.svg" width="32" height="32" alt="Node.js" title="Node.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/express/express-original.svg" width="32" height="32" alt="Express" title="Express" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/express/express-original.svg" width="32" height="32" alt="Express" title="Express" /></picture>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/spring/spring-original.svg" width="32" height="32" alt="Spring" title="Spring" />
 
 **Banco e ferramentas**
@@ -61,7 +61,7 @@ Atualmente, foco meus estudos e minha prática em **JavaScript, TypeScript, Reac
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" width="32" height="32" alt="MySQL" title="MySQL" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" width="32" height="32" alt="Docker" title="Docker" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" width="32" height="32" alt="Git" title="Git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/github/github-original.svg" width="32" height="32" alt="GitHub" title="GitHub" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/github/github-original.svg" width="32" height="32" alt="GitHub" title="GitHub" /></picture>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/githubactions/githubactions-original.svg" width="32" height="32" alt="GitHub Actions" title="GitHub Actions" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/linux/linux-original.svg" width="32" height="32" alt="Linux" title="Linux" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/npm/npm-original-wordmark.svg" width="32" height="32" alt="npm" title="npm" />
