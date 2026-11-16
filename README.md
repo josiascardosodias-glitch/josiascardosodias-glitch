@@ -21,7 +21,7 @@ Atualmente, foco meus estudos e minha prática em **JavaScript, TypeScript, Reac
 
 - 🔭 Estudando: TypeScript, React e Node.js
 - 📚 Guardo tudo o que aprendo na [biblioteca-dev](https://github.com/josiascardosodias-glitch/biblioteca-dev)
-- 🌐 Portfólio: [portifolio-gmaz.vercel.app](https://portifolio-gmaz.vercel.app/)
+- 🌐 Portfólio: [portifolio.vercel.app](https://josiasdias.vercel.app)
 
 <br clear="right" />
 
