@@ -1,0 +1,4 @@
+node_modules/
+.env
+# gerado a cada execução; o README já guarda os números
+data/

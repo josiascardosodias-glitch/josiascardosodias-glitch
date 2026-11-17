@@ -1,112 +1,78 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E6FA8,100:30A3DC&height=160&section=header&text=Josias%20Cardoso&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Sistemas%20de%20Informa%C3%A7%C3%A3o&descSize=16&descAlignY=55" width="100%" alt="Josias Cardoso" />
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500o&size=20&duration=3500&pause=800&color=30A3DC&center=true&vCenter=true&width=550&lines=Apaixonado+por+programa%C3%A7%C3%A3o+e+tecnologia;Construindo+projetos+e+evoluindo+todos+os+dias;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o+%F0%9F%9A%80" alt="Texto animado" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:000000,50:000000,100:8B00FF&text=JOSIAS%20CARDOSO&fontColor=8B00FF&fontSize=42&fontAlignY=42&desc=SOFTWARE%20DEVELOPER&descAlignY=68&descSize=16&descColor=FFFFFF" width="100%" alt="Josias Cardoso — Software Developer" />
 
-<a href="mailto:josiascardosodias@gmail.com"><img src="https://img.shields.io/badge/Email-30A3DC?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/josias-dias-cardoso/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-30A3DC?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/josias.d_cardoso/" target="_blank"><img src="https://img.shields.io/badge/Instagram-30A3DC?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-8B00FF?style=for-the-badge&logo=vercel&logoColor=000000)](https://josiasdias.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=8B00FF)](https://www.linkedin.com/in/josias-dias-cardoso/)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=8B00FF)](mailto:josiascardosodias@gmail.com)
+
 </div>
 
 <br>
 
-<h2 align="center">👨‍💻 Prazer, eu sou o Josias</h2>
+<div>
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programando" />
+### PRODUCT MINDED · FULL STACK
 
-Sou estudante de **Sistemas de Informação** e desenvolvedor em constante evolução, com interesse em desenvolvimento web, APIs e construção de aplicações.
+Desenvolvedor focado em construir experiências web completas, de interfaces acessíveis a APIs bem estruturadas.
 
-Atualmente, foco meus estudos e minha prática em **JavaScript, TypeScript, React, Node.js** e desenvolvimento **backend**, buscando fortalecer minha base técnica e escrever código organizado, legível e sustentável.
+`WEB APPS` &nbsp; `REST APIs` &nbsp; `RESPONSIVE UI`
 
-- 🔭 Estudando: TypeScript, React e Node.js
-- 📚 Guardo tudo o que aprendo na [biblioteca-dev](https://github.com/josiascardosodias-glitch/biblioteca-dev)
-- 🌐 Portfólio: [portifolio.vercel.app](https://josiasdias.vercel.app)
-
-<br clear="right" />
+</div>
 
 <br>
-
-<h2 align="center">🧰 Minha caixa de ferramentas</h2>
-
-<div align="center">
 
 <table>
-  <tr>
-    <td><b>Linguagens</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" width="32" height="32" alt="HTML" title="HTML" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" width="32" height="32" alt="CSS" title="CSS" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" width="32" height="32" alt="JavaScript" title="JavaScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript" title="TypeScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" width="32" height="32" alt="Java" title="Java" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="32" height="32" alt="Python" title="Python" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/c/c-original.svg" width="32" height="32" alt="C" title="C" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" width="32" height="32" alt="React" title="React" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/vitejs/vitejs-original.svg" width="32" height="32" alt="Vite" title="Vite" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/bootstrap/bootstrap-original.svg" width="32" height="32" alt="Bootstrap" title="Bootstrap" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/tailwindcss/tailwindcss-original.svg" width="32" height="32" alt="Tailwind CSS" title="Tailwind CSS" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend e APIs</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nodejs/nodejs-original.svg" width="32" height="32" alt="Node.js" title="Node.js" />
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/express/express-original.svg" width="32" height="32" alt="Express" title="Express" /></picture>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/spring/spring-original.svg" width="32" height="32" alt="Spring" title="Spring" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Banco e ferramentas</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" width="32" height="32" alt="MySQL" title="MySQL" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" width="32" height="32" alt="Docker" title="Docker" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" width="32" height="32" alt="Git" title="Git" />
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/github/github-original.svg" width="32" height="32" alt="GitHub" title="GitHub" /></picture>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/githubactions/githubactions-original.svg" width="32" height="32" alt="GitHub Actions" title="GitHub Actions" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/linux/linux-original.svg" width="32" height="32" alt="Linux" title="Linux" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/npm/npm-original-wordmark.svg" width="32" height="32" alt="npm" title="npm" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>IDEs e design</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/vscode/vscode-original.svg" width="32" height="32" alt="VS Code" title="VS Code" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/intellij/intellij-original.svg" width="32" height="32" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/pycharm/pycharm-original.svg" width="32" height="32" alt="PyCharm" title="PyCharm" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/figma/figma-original.svg" width="32" height="32" alt="Figma" title="Figma" />
-    </td>
-  </tr>
+<tr>
+<td width="35%" valign="middle">
+
+<img src="assets/pixel-bat-3/assets/bat.svg" alt="Pixel Bat" width="150">
+
+</td>
+<td width="65%" valign="middle">
+
+<!-- GITHUB_STATS_START -->
+<pre><code>{
+  "github": {
+    "username": "josiascardosodias-glitch",
+    "repositories": 8,
+    "stars": 0,
+    "forks": 0,
+    "total_commits": 154,
+    "last_commit": "2026-11-16",
+    "pull_requests": 2,
+    "issues": 0
+  }
+}</code></pre>
+<!-- GITHUB_STATS_END -->
+
+</td>
+</tr>
 </table>
 
+<br>
+
+## TOOLKIT
+
+<div>
+
+**LANGUAGES**  
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,py,c&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, Java, Python e C" />
+
+**FRONTEND**  
+<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind&theme=dark" alt="React, Vite, Bootstrap e Tailwind CSS" />
+
+**BACKEND & APIs**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark" alt="Node.js, Express e Spring" />
+
+**TOOLS**  
+<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,githubactions,linux,npm,vscode,idea,pycharm,figma&theme=dark" alt="MySQL, Docker, Git, GitHub, GitHub Actions, Linux, npm, VS Code, IntelliJ IDEA, PyCharm e Figma" />
 </div>
 
 <br>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josiascardosodias-glitch/josiascardosodias-glitch/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josiascardosodias-glitch/josiascardosodias-glitch/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/josiascardosodias-glitch/josiascardosodias-glitch/output/github-snake.svg" alt="Cobrinha comendo o gráfico de contribuições" />
-</picture>
+<sub><font color="#8B00FF">DESIGNING · BUILDING · REFINING</font></sub>
 
 </div>
-
-<br>
-
-## 🚀 Onde eu quero chegar
-
-* Criar projetos que façam a diferença para as pessoas 🌎
-* Me tornar um desenvolvedor **Sênior**
-* Trabalhar com tecnologia profissionalmente
-* Estudar e trabalhar com desenvolvimento no exterior ✈️
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E6FA8,100:30A3DC&height=100&section=footer" width="100%" alt="" />
-
-<p align="center">Feito com ❤️ por Josias Cardoso</p>
