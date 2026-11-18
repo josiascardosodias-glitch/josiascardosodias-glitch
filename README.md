@@ -1,78 +1,43 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:000000,50:000000,100:8B00FF&text=JOSIAS%20CARDOSO&fontColor=8B00FF&fontSize=42&fontAlignY=42&desc=SOFTWARE%20DEVELOPER&descAlignY=68&descSize=16&descColor=FFFFFF" width="100%" alt="Josias Cardoso — Software Developer" />
+<!-- [COMP-01] IDENTITY HEADER -->
+<a href="https://josiasdias.vercel.app">
+  <img src="assets/header-identity.svg" width="100%" alt="Josias Cardoso — IA Engineering" />
+</a>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-8B00FF?style=for-the-badge&logo=vercel&logoColor=000000)](https://josiasdias.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=8B00FF)](https://www.linkedin.com/in/josias-dias-cardoso/)
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=8B00FF)](mailto:josiascardosodias@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-8A2BE2?style=for-the-badge&logo=vercel&logoColor=FFFFFF)](https://josiasdias.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-05030A?style=for-the-badge&logo=linkedin&logoColor=C084FC)](https://www.linkedin.com/in/josias-dias-cardoso/)
+[![Email](https://img.shields.io/badge/EMAIL-05030A?style=for-the-badge&logo=gmail&logoColor=C084FC)](mailto:josiascardosodias@gmail.com)
 
-</div>
+<br/><br/>
+<img src="assets/line.svg" alt="line-horizontal-purple" width="100%" />
+<!-- [COMP-02] SINGULARITY CORE TELEMETRY -->
+<img src="assets/event-horizon.svg" alt="Event Horizon Telemetry" width="100%" />
 
-<br>
+<br/>
 
-<div>
-
-### PRODUCT MINDED · FULL STACK
-
-Desenvolvedor focado em construir experiências web completas, de interfaces acessíveis a APIs bem estruturadas.
-
-`WEB APPS` &nbsp; `REST APIs` &nbsp; `RESPONSIVE UI`
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="35%" valign="middle">
-
-<img src="assets/pixel-bat-3/assets/bat.svg" alt="Pixel Bat" width="150">
-
-</td>
-<td width="65%" valign="middle">
-
-<!-- GITHUB_STATS_START -->
-<pre><code>{
-  "github": {
-    "username": "josiascardosodias-glitch",
-    "repositories": 8,
-    "stars": 0,
-    "forks": 0,
-    "total_commits": 154,
-    "last_commit": "2026-11-16",
-    "pull_requests": 2,
-    "issues": 0
-  }
-}</code></pre>
-<!-- GITHUB_STATS_END -->
-
-</td>
-</tr>
+<!-- [COMP-03] & [COMP-04] CROBAT SVG SPRITE ANIMATION + JSON SVG SIDE BY SIDE -->
+<table width="100%">
+  <tr>
+    <td width="34.5%" align="center" valign="middle">
+      <img src="pixel-bat-3/assets/bat.svg" width="100%" alt="Crobat animado a partir de sprite.png" />
+    </td>
+    <td width="65.5%" align="center" valign="middle">
+      <img src="assets/telemetry-payload.svg" alt="Telemetry Payload" width="100%" />
+    </td>
+  </tr>
 </table>
 
-<br>
+<br/>
 
-## TOOLKIT
+<!-- [COMP-06] HORIZONTAL COMMIT PULSE WAVEFORM -->
+<img src="assets/commit-pulse.svg" width="100%" alt="Horizontal Commit Pulse Waveform" />
 
-<div>
+<img src="assets/line.svg" alt="line-horizontal-purple" width="100%" />
 
-**LANGUAGES**  
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,py,c&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, Java, Python e C" />
+<br/>
 
-**FRONTEND**  
-<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind&theme=dark" alt="React, Vite, Bootstrap e Tailwind CSS" />
-
-**BACKEND & APIs**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark" alt="Node.js, Express e Spring" />
-
-**TOOLS**  
-<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,githubactions,linux,npm,vscode,idea,pycharm,figma&theme=dark" alt="MySQL, Docker, Git, GitHub, GitHub Actions, Linux, npm, VS Code, IntelliJ IDEA, PyCharm e Figma" />
-</div>
-
-<br>
-
-<div align="center">
-
-<sub><font color="#8B00FF">DESIGNING · BUILDING · REFINING</font></sub>
+<!-- [COMP-07] FOOTER SIGNATURE -->
+<img src="assets/footer-tagline.svg" width="100%" alt="Designing · Building · Refining" />
 
 </div>
