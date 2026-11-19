@@ -1,0 +1,259 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 792 296" width="792" height="296" role="img" aria-label="Stack Matrix - Cyber Border Tracer">
+  <defs>
+    <clipPath id="v3_t_0">
+      <rect x="16" y="12" width="0" height="22">
+        <animate attributeName="width" begin="0.00s" dur="0.55s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;0.0667;0.1333;0.2000;0.2667;0.3333;0.4000;0.4667;0.5333;0.6000;0.6667;0.7333;0.8000;0.8667;0.9333;1.0000" values="0.0;13.3;26.7;40.0;53.3;66.7;80.0;93.3;106.7;120.0;133.3;146.7;160.0;173.3;186.7;200.0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="v3_c_0">
+      <rect x="278" y="12" width="0" height="22">
+        <animate attributeName="width" begin="0.25s" dur="0.45s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;0.1000;0.2000;0.3000;0.4000;0.5000;0.6000;0.7000;0.8000;0.9000;1.0000" values="0.0;9.5;19.0;28.5;38.0;47.5;57.0;66.5;76.0;85.5;95.0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="v3_p_0_0">
+      <rect x="22" y="3" width="0" height="18">
+        <animate attributeName="width" begin="0.35s" dur="0.40s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;0.2500;0.5000;0.7500;1.0000" values="0.0;9.5;19.0;28.5;38.0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="v3_p_0_1">
+      <rect x="22" y="3" width="0" height="18">
+        <animate attributeName="width" begin="0.47s" dur="0.40s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;0.3333;0.6667;1.0000" values="0.0;10.3;20.7;31.0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="v3_p_0_2">
+      <rect x="22" y="3" width="0" height="18">
+        <animate attributeName="width" begin="0.59s" dur="0.40s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;0.1000;0.2000;0.3000;0.4000;0.5000;0.6000;0.7000;0.8000;0.9000;1.0000" values="0.0;7.9;15.8;23.7;31.6;39.5;47.4;55.3;63.2;71.1;79.0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="v3_p_0_3">
+      <rect x="22" y="3" width="0" height="18">
+        <animate attributeName="width" begin="0.71s" dur="0.40s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;0.1000;0.2000;0.3000;0.4000;0.5000;0.6000;0.7000;0.8000;0.9000;1.0000" values="0.0;7.9;15.8;23.7;31.6;39.5;47.4;55.3;63.2;71.1;79.0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="v3_p_0_4">
+      <rect x="22" y="3" width="0" height="18">
+        <animate attributeName="width" begin="0.83s" dur="0.40s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;0.2500;0.5000;0.7500;1.0000" values="0.0;9.5;19.0;28.5;38.0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="v3_p_0_5">
+      <rect x="22" y="3" width="0" height="18">
+        <animate attributeName="width" begin="0.95s" dur="0.40s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;0.1667;0.3333;0.5000;0.6667;0.8333;1.0000" values="0.0;8.5;17.0;25.5;34.0;42.5;51.0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="v3_p_0_6">
+      <rect x="22" y="3" width="0" height="18">
+        <animate attributeName="width" begin="1.07s" dur="0.40s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;1.0000" values="0.0;17.0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="v3_t_1">
+      <rect x="16" y="12" width="0" height="22">
+        <animate attributeName="width" begin="0.25s" dur="0.55s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;0.0714;0.1429;0.2143;0.2857;0.3571;0.4286;0.5000;0.5714;0.6429;0.7143;0.7857;0.8571;0.9286;1.0000" values="0.0;14.3;28.6;42.9;57.1;71.4;85.7;100.0;114.3;128.6;142.9;157.1;171.4;185.7;200.0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="v3_c_1">
+      <rect x="278" y="12" width="0" height="22">
+        <animate attributeName="width" begin="0.50s" dur="0.45s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;0.1000;0.2000;0.3000;0.4000;0.5000;0.6000;0.7000;0.8000;0.9000;1.0000" values="0.0;9.5;19.0;28.5;38.0;47.5;57.0;66.5;76.0;85.5;95.0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="v3_p_1_0">
+      <rect x="22" y="3" width="0" height="18">
+        <animate attributeName="width" begin="0.60s" dur="0.40s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;0.2000;0.4000;0.6000;0.8000;1.0000" values="0.0;8.8;17.6;26.4;35.2;44.0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="v3_p_1_1">
+      <rect x="22" y="3" width="0" height="18">
+        <animate attributeName="width" begin="0.72s" dur="0.40s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;0.2500;0.5000;0.7500;1.0000" values="0.0;9.5;19.0;28.5;38.0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="v3_p_1_2">
+      <rect x="22" y="3" width="0" height="18">
+        <animate attributeName="width" begin="0.84s" dur="0.40s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;0.1111;0.2222;0.3333;0.4444;0.5556;0.6667;0.7778;0.8889;1.0000" values="0.0;8.0;16.0;24.0;32.0;40.0;48.0;56.0;64.0;72.0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="v3_p_1_3">
+      <rect x="22" y="3" width="0" height="18">
+        <animate attributeName="width" begin="0.96s" dur="0.40s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" values="0.0;7.8;15.5;23.2;31.0;38.8;46.5;54.2;62.0;69.8;77.5;85.2;93.0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="v3_t_2">
+      <rect x="16" y="12" width="0" height="22">
+        <animate attributeName="width" begin="0.50s" dur="0.55s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;0.0500;0.1000;0.1500;0.2000;0.2500;0.3000;0.3500;0.4000;0.4500;0.5000;0.5500;0.6000;0.6500;0.7000;0.7500;0.8000;0.8500;0.9000;0.9500;1.0000" values="0.0;10.0;20.0;30.0;40.0;50.0;60.0;70.0;80.0;90.0;100.0;110.0;120.0;130.0;140.0;150.0;160.0;170.0;180.0;190.0;200.0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="v3_c_2">
+      <rect x="278" y="12" width="0" height="22">
+        <animate attributeName="width" begin="0.75s" dur="0.45s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;0.1000;0.2000;0.3000;0.4000;0.5000;0.6000;0.7000;0.8000;0.9000;1.0000" values="0.0;9.5;19.0;28.5;38.0;47.5;57.0;66.5;76.0;85.5;95.0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="v3_p_2_0">
+      <rect x="22" y="3" width="0" height="18">
+        <animate attributeName="width" begin="0.85s" dur="0.40s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000" values="0.0;8.3;16.6;24.9;33.1;41.4;49.7;58.0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="v3_p_2_1">
+      <rect x="22" y="3" width="0" height="18">
+        <animate attributeName="width" begin="0.97s" dur="0.40s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000" values="0.0;8.3;16.6;24.9;33.1;41.4;49.7;58.0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="v3_p_2_2">
+      <rect x="22" y="3" width="0" height="18">
+        <animate attributeName="width" begin="1.09s" dur="0.40s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;0.1667;0.3333;0.5000;0.6667;0.8333;1.0000" values="0.0;8.5;17.0;25.5;34.0;42.5;51.0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="v3_t_3">
+      <rect x="16" y="12" width="0" height="22">
+        <animate attributeName="width" begin="0.75s" dur="0.55s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;0.0526;0.1053;0.1579;0.2105;0.2632;0.3158;0.3684;0.4211;0.4737;0.5263;0.5789;0.6316;0.6842;0.7368;0.7895;0.8421;0.8947;0.9474;1.0000" values="0.0;10.5;21.1;31.6;42.1;52.6;63.2;73.7;84.2;94.7;105.3;115.8;126.3;136.8;147.4;157.9;168.4;178.9;189.5;200.0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="v3_c_3">
+      <rect x="278" y="12" width="0" height="22">
+        <animate attributeName="width" begin="1.00s" dur="0.45s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;0.1000;0.2000;0.3000;0.4000;0.5000;0.6000;0.7000;0.8000;0.9000;1.0000" values="0.0;9.5;19.0;28.5;38.0;47.5;57.0;66.5;76.0;85.5;95.0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="v3_p_3_0">
+      <rect x="22" y="3" width="0" height="18">
+        <animate attributeName="width" begin="1.10s" dur="0.40s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;0.2000;0.4000;0.6000;0.8000;1.0000" values="0.0;8.8;17.6;26.4;35.2;44.0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="v3_p_3_1">
+      <rect x="22" y="3" width="0" height="18">
+        <animate attributeName="width" begin="1.22s" dur="0.40s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;0.1667;0.3333;0.5000;0.6667;0.8333;1.0000" values="0.0;8.5;17.0;25.5;34.0;42.5;51.0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="v3_p_3_2">
+      <rect x="22" y="3" width="0" height="18">
+        <animate attributeName="width" begin="1.34s" dur="0.40s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;0.3333;0.6667;1.0000" values="0.0;10.3;20.7;31.0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="v3_p_3_3">
+      <rect x="22" y="3" width="0" height="18">
+        <animate attributeName="width" begin="1.46s" dur="0.40s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;0.1667;0.3333;0.5000;0.6667;0.8333;1.0000" values="0.0;8.5;17.0;25.5;34.0;42.5;51.0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="v3_p_3_4">
+      <rect x="22" y="3" width="0" height="18">
+        <animate attributeName="width" begin="1.58s" dur="0.40s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;0.0714;0.1429;0.2143;0.2857;0.3571;0.4286;0.5000;0.5714;0.6429;0.7143;0.7857;0.8571;0.9286;1.0000" values="0.0;7.6;15.3;22.9;30.6;38.2;45.9;53.5;61.1;68.8;76.4;84.1;91.7;99.4;107.0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="v3_p_3_5">
+      <rect x="22" y="3" width="0" height="18">
+        <animate attributeName="width" begin="1.70s" dur="0.40s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;0.2000;0.4000;0.6000;0.8000;1.0000" values="0.0;8.8;17.6;26.4;35.2;44.0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="v3_p_3_6">
+      <rect x="22" y="3" width="0" height="18">
+        <animate attributeName="width" begin="1.82s" dur="0.40s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;0.3333;0.6667;1.0000" values="0.0;10.3;20.7;31.0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="v3_p_3_7">
+      <rect x="22" y="3" width="0" height="18">
+        <animate attributeName="width" begin="1.94s" dur="0.40s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000" values="0.0;8.3;16.6;24.9;33.1;41.4;49.7;58.0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="v3_p_3_8">
+      <rect x="22" y="3" width="0" height="18">
+        <animate attributeName="width" begin="2.06s" dur="0.40s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;0.0769;0.1538;0.2308;0.3077;0.3846;0.4615;0.5385;0.6154;0.6923;0.7692;0.8462;0.9231;1.0000" values="0.0;7.7;15.4;23.1;30.8;38.5;46.2;53.8;61.5;69.2;76.9;84.6;92.3;100.0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="v3_p_3_9">
+      <rect x="22" y="3" width="0" height="18">
+        <animate attributeName="width" begin="2.18s" dur="0.40s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000" values="0.0;8.3;16.6;24.9;33.1;41.4;49.7;58.0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="v3_p_3_10">
+      <rect x="22" y="3" width="0" height="18">
+        <animate attributeName="width" begin="2.30s" dur="0.40s" fill="freeze" calcMode="discrete"
+          keyTimes="0.0000;0.2000;0.4000;0.6000;0.8000;1.0000" values="0.0;8.8;17.6;26.4;35.2;44.0"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <g transform="translate(0, 0)">
+    <rect x="0.6" y="0.6" width="386.8" height="134.8" rx="12" fill="#100c19" stroke="#361854" stroke-width="1.2"/>
+    <rect x="0.6" y="0.6" width="386.8" height="134.8" rx="12" fill="none" stroke="#d946ef" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="130 918" opacity="0.9"><animate attributeName="stroke-dashoffset" from="0" to="-1048" dur="4.5s" repeatCount="indefinite"/></rect>
+    <g clip-path="url(#v3_t_0)"><text x="18" y="27" fill="#e778f9" font-family="monospace" font-size="12" font-weight="bold" letter-spacing="0.8">01 // LANGUAGES</text></g>
+    <g clip-path="url(#v3_c_0)"><text x="370" y="27" text-anchor="end" fill="#b87fd6" font-family="monospace" font-size="10.5" letter-spacing="0.5">07 MODULES</text></g>
+    <line x1="18" y1="38" x2="370" y2="38" stroke="#361854" stroke-width="1"/>
+    <line x1="18" y1="38" x2="118" y2="38" stroke="#e778f9" stroke-width="1.5" stroke-linecap="round"><animate attributeName="x1" values="18;270;18" dur="3.8s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="x2" values="118;370;118" dur="3.8s" begin="0.0s" repeatCount="indefinite"/></line>
+    <g transform="translate(18, 52)"><rect x="0" y="0" width="62" height="24" rx="5" fill="#161122" stroke="#382252" stroke-width="1"/><circle cx="13" cy="12" r="2.7" fill="#a020f0"/><g clip-path="url(#v3_p_0_0)"><text x="23" y="15.8" fill="#f3e7ff" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.6">HTML</text></g></g>
+    <g transform="translate(88, 52)"><rect x="0" y="0" width="55" height="24" rx="5" fill="#161122" stroke="#382252" stroke-width="1"/><circle cx="13" cy="12" r="2.7" fill="#a020f0"/><g clip-path="url(#v3_p_0_1)"><text x="23" y="15.8" fill="#f3e7ff" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.6">CSS</text></g></g>
+    <g transform="translate(151, 52)"><rect x="0" y="0" width="103" height="24" rx="5" fill="#161122" stroke="#382252" stroke-width="1"/><circle cx="13" cy="12" r="2.7" fill="#a020f0"/><g clip-path="url(#v3_p_0_2)"><text x="23" y="15.8" fill="#f3e7ff" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.6">JAVASCRIPT</text></g></g>
+    <g transform="translate(262, 52)"><rect x="0" y="0" width="103" height="24" rx="5" fill="#161122" stroke="#382252" stroke-width="1"/><circle cx="13" cy="12" r="2.7" fill="#a020f0"/><g clip-path="url(#v3_p_0_3)"><text x="23" y="15.8" fill="#f3e7ff" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.6">TYPESCRIPT</text></g></g>
+    <g transform="translate(18, 83)"><rect x="0" y="0" width="62" height="24" rx="5" fill="#161122" stroke="#382252" stroke-width="1"/><circle cx="13" cy="12" r="2.7" fill="#a020f0"/><g clip-path="url(#v3_p_0_4)"><text x="23" y="15.8" fill="#f3e7ff" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.6">JAVA</text></g></g>
+    <g transform="translate(88, 83)"><rect x="0" y="0" width="75" height="24" rx="5" fill="#161122" stroke="#382252" stroke-width="1"/><circle cx="13" cy="12" r="2.7" fill="#a020f0"/><g clip-path="url(#v3_p_0_5)"><text x="23" y="15.8" fill="#f3e7ff" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.6">PYTHON</text></g></g>
+    <g transform="translate(171, 83)"><rect x="0" y="0" width="41" height="24" rx="5" fill="#161122" stroke="#382252" stroke-width="1"/><circle cx="13" cy="12" r="2.7" fill="#a020f0"/><g clip-path="url(#v3_p_0_6)"><text x="23" y="15.8" fill="#f3e7ff" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.6">C</text></g></g>
+  </g>
+  <g transform="translate(404, 0)">
+    <rect x="0.6" y="0.6" width="386.8" height="134.8" rx="12" fill="#100c19" stroke="#361854" stroke-width="1.2"/>
+    <rect x="0.6" y="0.6" width="386.8" height="134.8" rx="12" fill="none" stroke="#d946ef" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="130 918" opacity="0.9"><animate attributeName="stroke-dashoffset" from="-240" to="-1288" dur="4.5s" repeatCount="indefinite"/></rect>
+    <g clip-path="url(#v3_t_1)"><text x="18" y="27" fill="#e778f9" font-family="monospace" font-size="12" font-weight="bold" letter-spacing="0.8">02 // FRONTEND</text></g>
+    <g clip-path="url(#v3_c_1)"><text x="370" y="27" text-anchor="end" fill="#b87fd6" font-family="monospace" font-size="10.5" letter-spacing="0.5">04 MODULES</text></g>
+    <line x1="18" y1="38" x2="370" y2="38" stroke="#361854" stroke-width="1"/>
+    <line x1="18" y1="38" x2="118" y2="38" stroke="#e778f9" stroke-width="1.5" stroke-linecap="round"><animate attributeName="x1" values="18;270;18" dur="3.8s" begin="0.4s" repeatCount="indefinite"/><animate attributeName="x2" values="118;370;118" dur="3.8s" begin="0.4s" repeatCount="indefinite"/></line>
+    <g transform="translate(18, 52)"><rect x="0" y="0" width="68" height="24" rx="5" fill="#161122" stroke="#382252" stroke-width="1"/><circle cx="13" cy="12" r="2.7" fill="#a020f0"/><g clip-path="url(#v3_p_1_0)"><text x="23" y="15.8" fill="#f3e7ff" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.6">REACT</text></g></g>
+    <g transform="translate(94, 52)"><rect x="0" y="0" width="62" height="24" rx="5" fill="#161122" stroke="#382252" stroke-width="1"/><circle cx="13" cy="12" r="2.7" fill="#a020f0"/><g clip-path="url(#v3_p_1_1)"><text x="23" y="15.8" fill="#f3e7ff" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.6">VITE</text></g></g>
+    <g transform="translate(164, 52)"><rect x="0" y="0" width="96" height="24" rx="5" fill="#161122" stroke="#382252" stroke-width="1"/><circle cx="13" cy="12" r="2.7" fill="#a020f0"/><g clip-path="url(#v3_p_1_2)"><text x="23" y="15.8" fill="#f3e7ff" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.6">BOOTSTRAP</text></g></g>
+    <g transform="translate(18, 83)"><rect x="0" y="0" width="117" height="24" rx="5" fill="#161122" stroke="#382252" stroke-width="1"/><circle cx="13" cy="12" r="2.7" fill="#a020f0"/><g clip-path="url(#v3_p_1_3)"><text x="23" y="15.8" fill="#f3e7ff" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.6">TAILWIND CSS</text></g></g>
+  </g>
+  <g transform="translate(0, 152)">
+    <rect x="0.6" y="0.6" width="386.8" height="142.8" rx="12" fill="#100c19" stroke="#361854" stroke-width="1.2"/>
+    <rect x="0.6" y="0.6" width="386.8" height="142.8" rx="12" fill="none" stroke="#d946ef" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="130 934" opacity="0.9"><animate attributeName="stroke-dashoffset" from="-480" to="-1544" dur="4.5s" repeatCount="indefinite"/></rect>
+    <g clip-path="url(#v3_t_2)"><text x="18" y="27" fill="#e778f9" font-family="monospace" font-size="12" font-weight="bold" letter-spacing="0.8">03 // BACKEND &amp; APIs</text></g>
+    <g clip-path="url(#v3_c_2)"><text x="370" y="27" text-anchor="end" fill="#b87fd6" font-family="monospace" font-size="10.5" letter-spacing="0.5">03 MODULES</text></g>
+    <line x1="18" y1="38" x2="370" y2="38" stroke="#361854" stroke-width="1"/>
+    <line x1="18" y1="38" x2="118" y2="38" stroke="#e778f9" stroke-width="1.5" stroke-linecap="round"><animate attributeName="x1" values="18;270;18" dur="3.8s" begin="0.8s" repeatCount="indefinite"/><animate attributeName="x2" values="118;370;118" dur="3.8s" begin="0.8s" repeatCount="indefinite"/></line>
+    <g transform="translate(18, 52)"><rect x="0" y="0" width="82" height="24" rx="5" fill="#161122" stroke="#382252" stroke-width="1"/><circle cx="13" cy="12" r="2.7" fill="#a020f0"/><g clip-path="url(#v3_p_2_0)"><text x="23" y="15.8" fill="#f3e7ff" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.6">NODE.JS</text></g></g>
+    <g transform="translate(108, 52)"><rect x="0" y="0" width="82" height="24" rx="5" fill="#161122" stroke="#382252" stroke-width="1"/><circle cx="13" cy="12" r="2.7" fill="#a020f0"/><g clip-path="url(#v3_p_2_1)"><text x="23" y="15.8" fill="#f3e7ff" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.6">EXPRESS</text></g></g>
+    <g transform="translate(198, 52)"><rect x="0" y="0" width="75" height="24" rx="5" fill="#161122" stroke="#382252" stroke-width="1"/><circle cx="13" cy="12" r="2.7" fill="#a020f0"/><g clip-path="url(#v3_p_2_2)"><text x="23" y="15.8" fill="#f3e7ff" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.6">SPRING</text></g></g>
+  </g>
+  <g transform="translate(404, 152)">
+    <rect x="0.6" y="0.6" width="386.8" height="142.8" rx="12" fill="#100c19" stroke="#361854" stroke-width="1.2"/>
+    <rect x="0.6" y="0.6" width="386.8" height="142.8" rx="12" fill="none" stroke="#d946ef" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="130 934" opacity="0.9"><animate attributeName="stroke-dashoffset" from="-720" to="-1784" dur="4.5s" repeatCount="indefinite"/></rect>
+    <g clip-path="url(#v3_t_3)"><text x="18" y="27" fill="#e778f9" font-family="monospace" font-size="12" font-weight="bold" letter-spacing="0.8">04 // TOOLS &amp; INFRA</text></g>
+    <g clip-path="url(#v3_c_3)"><text x="370" y="27" text-anchor="end" fill="#b87fd6" font-family="monospace" font-size="10.5" letter-spacing="0.5">11 MODULES</text></g>
+    <line x1="18" y1="38" x2="370" y2="38" stroke="#361854" stroke-width="1"/>
+    <line x1="18" y1="38" x2="118" y2="38" stroke="#e778f9" stroke-width="1.5" stroke-linecap="round"><animate attributeName="x1" values="18;270;18" dur="3.8s" begin="1.2000000000000002s" repeatCount="indefinite"/><animate attributeName="x2" values="118;370;118" dur="3.8s" begin="1.2000000000000002s" repeatCount="indefinite"/></line>
+    <g transform="translate(18, 52)"><rect x="0" y="0" width="68" height="24" rx="5" fill="#161122" stroke="#382252" stroke-width="1"/><circle cx="13" cy="12" r="2.7" fill="#a020f0"/><g clip-path="url(#v3_p_3_0)"><text x="23" y="15.8" fill="#f3e7ff" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.6">MYSQL</text></g></g>
+    <g transform="translate(94, 52)"><rect x="0" y="0" width="75" height="24" rx="5" fill="#161122" stroke="#382252" stroke-width="1"/><circle cx="13" cy="12" r="2.7" fill="#a020f0"/><g clip-path="url(#v3_p_3_1)"><text x="23" y="15.8" fill="#f3e7ff" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.6">DOCKER</text></g></g>
+    <g transform="translate(177, 52)"><rect x="0" y="0" width="55" height="24" rx="5" fill="#161122" stroke="#382252" stroke-width="1"/><circle cx="13" cy="12" r="2.7" fill="#a020f0"/><g clip-path="url(#v3_p_3_2)"><text x="23" y="15.8" fill="#f3e7ff" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.6">GIT</text></g></g>
+    <g transform="translate(240, 52)"><rect x="0" y="0" width="75" height="24" rx="5" fill="#161122" stroke="#382252" stroke-width="1"/><circle cx="13" cy="12" r="2.7" fill="#a020f0"/><g clip-path="url(#v3_p_3_3)"><text x="23" y="15.8" fill="#f3e7ff" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.6">GITHUB</text></g></g>
+    <g transform="translate(18, 83)"><rect x="0" y="0" width="131" height="24" rx="5" fill="#161122" stroke="#382252" stroke-width="1"/><circle cx="13" cy="12" r="2.7" fill="#a020f0"/><g clip-path="url(#v3_p_3_4)"><text x="23" y="15.8" fill="#f3e7ff" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.6">GITHUB ACTIONS</text></g></g>
+    <g transform="translate(157, 83)"><rect x="0" y="0" width="68" height="24" rx="5" fill="#161122" stroke="#382252" stroke-width="1"/><circle cx="13" cy="12" r="2.7" fill="#a020f0"/><g clip-path="url(#v3_p_3_5)"><text x="23" y="15.8" fill="#f3e7ff" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.6">LINUX</text></g></g>
+    <g transform="translate(233, 83)"><rect x="0" y="0" width="55" height="24" rx="5" fill="#161122" stroke="#382252" stroke-width="1"/><circle cx="13" cy="12" r="2.7" fill="#a020f0"/><g clip-path="url(#v3_p_3_6)"><text x="23" y="15.8" fill="#f3e7ff" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.6">NPM</text></g></g>
+    <g transform="translate(296, 83)"><rect x="0" y="0" width="82" height="24" rx="5" fill="#161122" stroke="#382252" stroke-width="1"/><circle cx="13" cy="12" r="2.7" fill="#a020f0"/><g clip-path="url(#v3_p_3_7)"><text x="23" y="15.8" fill="#f3e7ff" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.6">VS CODE</text></g></g>
+    <g transform="translate(18, 114)"><rect x="0" y="0" width="124" height="24" rx="5" fill="#161122" stroke="#382252" stroke-width="1"/><circle cx="13" cy="12" r="2.7" fill="#a020f0"/><g clip-path="url(#v3_p_3_8)"><text x="23" y="15.8" fill="#f3e7ff" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.6">INTELLIJ IDEA</text></g></g>
+    <g transform="translate(150, 114)"><rect x="0" y="0" width="82" height="24" rx="5" fill="#161122" stroke="#382252" stroke-width="1"/><circle cx="13" cy="12" r="2.7" fill="#a020f0"/><g clip-path="url(#v3_p_3_9)"><text x="23" y="15.8" fill="#f3e7ff" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.6">PYCHARM</text></g></g>
+    <g transform="translate(240, 114)"><rect x="0" y="0" width="68" height="24" rx="5" fill="#161122" stroke="#382252" stroke-width="1"/><circle cx="13" cy="12" r="2.7" fill="#a020f0"/><g clip-path="url(#v3_p_3_10)"><text x="23" y="15.8" fill="#f3e7ff" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.6">FIGMA</text></g></g>
+  </g>
+</svg>

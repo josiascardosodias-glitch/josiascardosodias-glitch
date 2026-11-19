@@ -30,6 +30,11 @@
 
 <br/>
 
+<!-- [COMP-05] STACK MATRIX -->
+<img src="assets/stack-matrix.svg" width="100%" alt="Stack Matrix — Languages, Frontend, Backend & APIs, Tools & Infra" />
+
+<br/>
+
 <!-- [COMP-06] HORIZONTAL COMMIT PULSE WAVEFORM -->
 <img src="assets/commit-pulse.svg" width="100%" alt="Horizontal Commit Pulse Waveform" />
 
